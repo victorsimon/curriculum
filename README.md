@@ -1,6 +1,5 @@
-Traduce el siguiente curriculum al inglés respetando el formato:
-
-# Víctor Simón Batanero [Senior Software Developer]
+# Víctor Simón Batanero 
+[Senior Software Developer]
 ## Información personal
 fecha de nacimiento: 19/05/1978 en Madrid, España 
 
